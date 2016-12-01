@@ -10,3 +10,10 @@ colnames(allen) <- c("C1","C2","C3")
 allen+2
 
 t(allen)
+
+# Subsetting Matrices
+allen[2,3]
+allen[2,]
+allen[,2]
+allen[2,c(1,2)]
+
