@@ -5,3 +5,5 @@ allen <- 2*pi
 
 is.logical(allen)
 is.numeric(allen)
+
+rm(allen)
